@@ -1,2 +1,2 @@
-# git-tutorial-basic
-Tutorial básico de Git para la clase de IoT
+# tutorial-basic-g7
+Este es un primer ensayo de cómo usar el repositorio de GitHub y subirlo desde la línea de comandos utilizando Ubuntu, de la clase del diplomado de IoT.
