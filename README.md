@@ -4,3 +4,5 @@ Este es un primer ensayo de cómo usar el repositorio de GitHub y subirlo desde 
 Ahora, este es mi primer cambio desde la línea de comandos para Git
 
 Este es un segundo cambio que estoy realizando como practica de lo que he aprendido.
+
+Ahora estoy efectando este nuevo cambio desde cero y sin ver ayudas, para prácticar.
