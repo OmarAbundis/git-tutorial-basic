@@ -6,3 +6,5 @@ Ahora, este es mi primer cambio desde la línea de comandos para Git
 Este es un segundo cambio que estoy realizando como practica de lo que he aprendido.
 
 Ahora estoy efectando este nuevo cambio desde cero y sin ver ayudas, para prácticar.
+
+Ahora se está resolviendo un ejercicio de práctica en el cual se realiza una edición en VSC del archivo README.md que se clonó con GITHUB desktop.
